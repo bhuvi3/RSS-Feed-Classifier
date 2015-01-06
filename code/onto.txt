@@ -1,0 +1,2785 @@
+(dp0
+Veconomy business and finance
+p1
+(lp2
+Vagriculture
+p3
+aVarable farming
+p4
+aVfishing industry
+p5
+aVforestry and timber
+p6
+aVlivestock farming
+p7
+aVviniculture
+p8
+aVaquaculture
+p9
+aVchemicals
+p10
+aVbiotechnology
+p11
+aVfertiliser
+p12
+aVhealth and beauty product
+p13
+aVinorganic chemical
+p14
+aVorganic chemical
+p15
+aVpharmaceutical
+p16
+aVsynthetic and plastic
+p17
+aVcomputing and information technology
+p18
+aVhardware
+p19
+aVnetworking
+p20
+aVsatellite technology
+p21
+aVsemiconductors and active components
+p22
+aVsoftware
+p23
+aVtelecommunication equipment
+p24
+aVtelecommunication service
+p25
+aVsecurity
+p26
+aVwireless technology
+p27
+aVconstruction and property
+p28
+aVheavy construction
+p29
+aVhouse building
+p30
+aVreal estate
+p31
+aVfarms
+p32
+aVland price
+p33
+aVrenovation
+p34
+aVdesign and engineering
+p35
+aVenergy and resource
+p36
+aValternative energy
+p37
+aVcoal
+p38
+aVoil and gas - downstream activities
+p39
+aVoil and gas - upstream activities
+p40
+aVnuclear power
+p41
+aVelectricity production and distribution
+p42
+aVwaste management and pollution control
+p43
+aVwater supply
+p44
+aVnatural resources (general)
+p45
+aVenergy (general)
+p46
+aVnatural gas
+p47
+aVpetrol
+p48
+aVdiesel fuel
+p49
+aVkerosene/paraffin
+p50
+aVfinancial and business service
+p51
+aVaccountancy and auditing
+p52
+aVbanking
+p53
+aVconsultancy service
+p54
+aVemployment agency
+p55
+aVhealthcare provider
+p56
+aVinsurance
+p57
+aVlegal service
+p58
+aVmarket research
+p59
+aVstock broking
+p60
+aVpersonal investing
+p61
+aVmarket trend
+p62
+aVshipping service
+p63
+aVpersonal service
+p64
+aVjanitorial service
+p65
+aVfuneral parlour and crematorium
+p66
+aVrental service
+p67
+aVwedding service
+p68
+aVpersonal finance
+p69
+aVpersonal income
+p70
+aVauction service
+p71
+aVprinting/promotional service
+p72
+aVinvestment service
+p73
+aVconsumer goods
+p74
+aVclothing
+p75
+aVdepartment store
+p76
+aVfood
+p77
+aVmail order
+p78
+aVretail
+p79
+aVspeciality store
+p80
+aVwholesale
+p81
+aVbeverage
+p82
+aVelectronic commerce
+p83
+aVluxury good
+p84
+aVnon-durable good
+p85
+aVtoy
+p86
+aVmacro economics
+p87
+aVcentral bank
+p88
+aVconsumer issue
+p89
+aVdebt market
+p90
+aVeconomic indicator
+p91
+aVemerging market
+p92
+aVforeign exchange market
+p93
+aVgovernment aid
+p94
+aVgovernment debt
+p95
+aVinterest rate
+p96
+aVinternational economic institution
+p97
+aVinternational (foreign) trade
+p98
+aVloan market
+p99
+aVeconomic organization
+p100
+aVconsumer confidence
+p101
+aVtrade dispute
+p102
+aVinflation and deflation
+p103
+aVprices
+p104
+aVcurrency values
+p105
+aVbudgets and budgeting
+p106
+aVcredit and debt
+p107
+aVloans
+p108
+aVmortgages
+p109
+aVfinancial markets
+p110
+aVcommodity markets
+p111
+aVinvestments
+p112
+aVstocks
+p113
+aVbonds
+p114
+aVmutual funds
+p115
+aVderivative securities
+p116
+aVimports
+p117
+aVexports
+p118
+aVtrade agreements
+p119
+aVtrade policy
+p120
+aVbusiness enterprises
+p121
+aVtariff
+p122
+aVtrade balance
+p123
+aVmarket and exchange
+p124
+aVenergy
+p125
+aVmetal
+p126
+aVsecurities
+p127
+aVsoft commodity
+p128
+aVmedia
+p129
+aVadvertising
+p130
+aVbook
+p131
+aVcinema industry
+p132
+aVnews agency
+p133
+aVnewspaper and magazine
+p134
+aVonline
+p135
+aVpublic relation
+p136
+aVradio industry
+p137
+aVsatellite and cable service
+p138
+aVtelevision industry
+p139
+aVmusic industry
+p140
+aVmanufacturing and engineering
+p141
+aVaerospace
+p142
+aVautomotive equipment
+p143
+aVdefence equipment
+p144
+aVelectrical appliance
+p145
+aVheavy engineering
+p146
+aVindustrial component
+p147
+aVinstrument engineering
+p148
+aVshipbuilding
+p149
+aVmachine manufacturing
+p150
+aVmetal and mineral
+p151
+aVbuilding material
+p152
+aVgold and precious material
+p153
+aViron and steel
+p154
+aVnon ferrous metal
+p155
+aVmining
+p156
+aVprocess industry
+p157
+aVdistiller and brewer
+p158
+ag77
+aVfurnishings and furniture
+p159
+aVpaper and packaging product
+p160
+aVrubber product
+p161
+aVsoft drinks
+p162
+aVtextile and clothing
+p163
+aVtobacco
+p164
+aVtourism and leisure
+p165
+aVcasino and gambling
+p166
+aVhotel and accommodation
+p167
+aVrecreational and sporting goods
+p168
+aVrestaurant and catering
+p169
+aVtour operator
+p170
+aVtransport
+p171
+aVair transport
+p172
+aVrailway
+p173
+aVroad transport
+p174
+aVwaterway and maritime transport
+p175
+aVcompany information
+p176
+aVaccounting and audit
+p177
+aVannual and special corporate meeting
+p178
+aVannual report
+p179
+aVantitrust issue
+p180
+aVmerger, acquisition and takeover
+p181
+aVanalysts' comment
+p182
+aVbankruptcy
+p183
+aVboard of directors (appointment and change)
+p184
+aVbuyback
+p185
+aVC.E.O. interview
+p186
+aVcorporate officer
+p187
+aVcorporate profile
+p188
+aVcontract
+p189
+aVdefence contract
+p190
+aVdividend announcement
+p191
+aVearnings forecast
+p192
+aVfinancially distressed company
+p193
+aVearnings
+p194
+aVfinancing and stock offering
+p195
+aVgovernment contract
+p196
+aVglobal expansion
+p197
+aVinsider trading
+p198
+aVjoint venture
+p199
+aVleveraged buyout
+p200
+aVlayoffs and downsizing
+p201
+aVlicensing agreement
+p202
+aVlitigation and regulation
+p203
+aVmanagement change
+p204
+aVmarketing
+p205
+aVnew product
+p206
+aVpatent, copyright and trademark
+p207
+aVplant closing
+p208
+aVplant opening
+p209
+aVprivatisation
+p210
+aVproxy filing
+p211
+aVrating
+p212
+aVresearch and development
+p213
+aVquarterly or semiannual financial statement
+p214
+aVrestructuring and recapitalisation
+p215
+aVspin-off
+p216
+aVstock activity
+p217
+aVindustrial production
+p218
+aVproductivity
+p219
+aVinventories
+p220
+aVsales
+p221
+aVcorporations
+p222
+aVshareholders
+p223
+aVcorporate performance
+p224
+aVlosses
+p225
+aVcredit ratings
+p226
+aVstock splits
+p227
+aVstock options
+p228
+aVrecalls (products)
+p229
+aVglobalization
+p230
+aVconsumers
+p231
+aVpurchase
+p232
+aVnew service
+p233
+aVeconomy (general)
+p234
+aVeconomic policy
+p235
+aVbusiness (general)
+p236
+aVinstitution
+p237
+aVfinance (general)
+p238
+aVmoney and monetary policy
+p239
+asVenvironmental issue
+p240
+(lp241
+Vrenewable energy
+p242
+aVconservation
+p243
+aVendangered species
+p244
+aVecosystem
+p245
+aVenergy saving
+p246
+aVenvironmental politics
+p247
+aVenvironmental pollution
+p248
+aVair pollution
+p249
+aVwater pollution
+p250
+aVnatural resources
+p251
+aVland resources
+p252
+aVparks
+p253
+aVforests
+p254
+aVwetlands
+p255
+aVmountains
+p256
+aVrivers
+p257
+aVoceans
+p258
+aVwildlife
+p259
+aVenergy resources
+p260
+aVnature
+p261
+aVinvasive species
+p262
+aVpopulation
+p263
+aVwaste
+p264
+aVwater
+p265
+aVglobal warming
+p266
+aVhazardous materials
+p267
+aVenvironmental cleanup
+p268
+asVhuman interest
+p269
+(lp270
+Vanimal
+p271
+aVcuriosity
+p272
+aVpeople
+p273
+aVadvice
+p274
+aVcelebrity
+p275
+aVaccomplishment
+p276
+aVhuman mishap
+p277
+aVfortune-telling
+p278
+aVmystery
+p279
+aVsociety
+p280
+aVceremony
+p281
+aVdeath
+p282
+aVfuneral
+p283
+aVestate bestowal
+p284
+aVmemorial
+p285
+aVaward and prize
+p286
+aVrecord
+p287
+aVimperial and royal matters
+p288
+aVplant
+p289
+asVarts culture and entertainment
+p290
+(lp291
+Varchaeology
+p292
+aVarchitecture
+p293
+aVbullfighting
+p294
+aVfestive event (including carnival)
+p295
+aVcinema
+p296
+aVfilm festival
+p297
+aVdance
+p298
+aVfashion
+p299
+aVjewelry
+p300
+aVlanguage
+p301
+aVlibrary and museum
+p302
+aVliterature
+p303
+aVfiction
+p304
+aVpoetry
+p305
+aVmusic
+p306
+aVclassical music
+p307
+aVfolk music
+p308
+aVjazz music
+p309
+aVpopular music
+p310
+aVcountry music
+p311
+aVrock and roll music
+p312
+aVhip-hop
+p313
+aVpainting
+p314
+aVphotography
+p315
+aVradio
+p316
+aVsculpture
+p317
+aVplastic art
+p318
+aVtelevision
+p319
+aVsoap opera
+p320
+aVtheatre
+p321
+aVmusic theatre
+p322
+aVmonument and heritage site
+p323
+aVinstitution-DEPRECATED
+p324
+aVcustoms and tradition
+p325
+aVarts (general)
+p326
+aVentertainment (general)
+p327
+aVentertainment award
+p328
+aVculture (general)
+p329
+aVcultural development
+p330
+aVnightclub
+p331
+aVcartoon
+p332
+aVanimation
+p333
+aVmass media
+p334
+aVperiodicals
+p335
+aVnews media
+p336
+aVnewspapers
+p337
+aVreviews
+p338
+aVinternet
+p339
+aVhistory
+p340
+asVlifestyle and leisure
+p341
+(lp342
+Vgame
+p343
+aVGo
+p344
+aVchess
+p345
+aVbridge
+p346
+aVshogi
+p347
+aVgaming and lottery
+p348
+aVgastronomy
+p349
+aVorganic foods
+p350
+aVhobby
+p351
+aVDIY
+p352
+aVshopping
+p353
+aVgardening
+p354
+aVholiday or vacation
+p355
+aVtourism
+p356
+aVtravel and commuting
+p357
+aVtraffic
+p358
+aVclub and association
+p359
+aVlifestyle (house and home)
+p360
+aVleisure (general)
+p361
+aVpublic holiday
+p362
+aVhunting
+p363
+aVfishing
+p364
+aVauto trends
+p365
+aVadventure
+p366
+aVbeauty
+p367
+ag89
+aVwedding
+p368
+asVscience and technology
+p369
+(lp370
+Vapplied science
+p371
+aVphysics
+p372
+aVchemistry
+p373
+aVcosmology
+p374
+aVparticle physics
+p375
+aVengineering
+p376
+aVmaterial science
+p377
+aVhuman science
+p378
+aVsocial sciences
+p379
+ag340
+aVpsychology
+p380
+aVsociology
+p381
+aVanthropology
+p382
+aVnatural science
+p383
+aVgeology
+p384
+aVpaleontology
+p385
+aVgeography
+p386
+aVbotany
+p387
+aVzoology
+p388
+aVphysiology
+p389
+aVastronomy
+p390
+aVbiology
+p391
+aVphilosophical science
+p392
+aVresearch
+p393
+aVsurvey
+p394
+aVscientific exploration
+p395
+aVspace programme
+p396
+aVscience (general)
+p397
+aVtechnology (general)
+p398
+aVrocketry
+p399
+aVlaser
+p400
+aVstandards
+p401
+aVanimal science
+p402
+aVmicro science
+p403
+aVmarine science
+p404
+aVweather science
+p405
+aVelectronics
+p406
+aVidentification technology
+p407
+aVmathematics
+p408
+ag11
+aVagricultural research and technology
+p409
+aVnanotechnology
+p410
+aVIT/computer sciences
+p411
+aVscientific institutions
+p412
+asVsport
+p413
+(lp414
+Vaero and aviation sport
+p415
+aVparachuting
+p416
+aVsky diving
+p417
+aValpine skiing
+p418
+aVdownhill
+p419
+aVgiant slalom
+p420
+aVsuper G
+p421
+aVslalom
+p422
+aVcombined
+p423
+aVAmerican football
+p424
+aV(US) National Football League (NFL) (North American)
+p425
+aVCFL
+p426
+aVAFL-DEPRECATED
+p427
+aVarchery
+p428
+aVFITA / Outdoor target archery
+p429
+aVcrossbow shooting
+p430
+aVathletics, track and field
+p431
+aV100 m
+p432
+aV200 m
+p433
+aV400 m
+p434
+aV800 m
+p435
+aV1000 m
+p436
+aV1500 m
+p437
+aVmile
+p438
+aV2000 m
+p439
+aV3000 m
+p440
+aV5000 m
+p441
+aV10,000 m
+p442
+aV20 km
+p443
+aVone hour
+p444
+aF25000.0
+aF30000.0
+aV110 m hurdles
+p445
+aV400 m hurdles
+p446
+aV3000 m steeplechase
+p447
+aVhigh jump
+p448
+aVpole vault
+p449
+aVlong jump
+p450
+aVtriple jump
+p451
+aVshot put
+p452
+aVdiscus throw
+p453
+aVhammer throw
+p454
+aVjavelin throw
+p455
+aVdecathlon
+p456
+aV4x100 m
+p457
+aV4x200 m
+p458
+aV4x400 m
+p459
+aV4x800 m
+p460
+aV4x1500 m
+p461
+aVwalk 1 h
+p462
+aVwalk 2 h
+p463
+aV10 km walk
+p464
+aV15 km walk
+p465
+aV20 km walk
+p466
+aV30 km walk
+p467
+aV50 km walk
+p468
+aV100 m hurdles
+p469
+aV5 km walk
+p470
+aVheptathlon
+p471
+aV1500 m walk
+p472
+aV2000 m walk
+p473
+aV3000 m walk
+p474
+aV50 m
+p475
+aV50 m hurdles
+p476
+aV50 yards
+p477
+aV50 yard hurdles
+p478
+aV60 m
+p479
+aV60 m hurdles
+p480
+aV60 yards
+p481
+aV60 yard hurdles
+p482
+aV100 yards
+p483
+aV100 yard hurdles
+p484
+aV300 m
+p485
+aV300 yards
+p486
+aV440 yards
+p487
+aV500 m
+p488
+aV500 yards
+p489
+aV600 m
+p490
+aV600 yards
+p491
+aV880 yards
+p492
+aV1000 yards
+p493
+aV2 miles
+p494
+aV3 miles
+p495
+aV6 miles
+p496
+aV4x1 mile
+p497
+aVpentathlon
+p498
+aVbadminton
+p499
+aVbaseball
+p500
+aVMajor League Baseball (North American Professional) - American League
+p501
+aVMajor League Baseball (North American Professional) - National League
+p502
+aVMajor League Baseball (North American Professional) - Special (e.g. All-Star, World Series)
+p503
+aVrubberball baseball
+p504
+aVMajor League Baseball Playoffs
+p505
+aVWorld Series
+p506
+aVbasketball
+p507
+aVNational Basketball Association (North American Professional)
+p508
+aVprofessional - Women general
+p509
+aVSwiss netball
+p510
+aVGerman netball
+p511
+aVDutch netball
+p512
+aVbiathlon
+p513
+aV7.5 km
+p514
+aV10 km
+p515
+aV15 km
+p516
+ag443
+aV4x7.5 km relay
+p517
+aV12.5 km pursuit
+p518
+aVbilliards, snooker and pool
+p519
+aV8 ball
+p520
+aV9 ball
+p521
+aF41288.0
+aVcontinuous-DEPRECATED
+p522
+aVother-DEPRECATED
+p523
+aVsnooker
+p524
+aVbobsleigh
+p525
+aVtwo-man sled
+p526
+aVfour-man sled
+p527
+aVbowling
+p528
+aVbowls and petanque
+p529
+aVboxing
+p530
+aVsuper-heavyweight
+p531
+aVheavyweight
+p532
+aVcruiserweight
+p533
+aVlight-heavyweight
+p534
+aVsuper-middleweight
+p535
+aVmiddleweight
+p536
+aVlight-middleweight
+p537
+aVwelterweight
+p538
+aVlight-welterweight
+p539
+aVlightweight
+p540
+aVsuper-featherweight
+p541
+aVfeatherweight
+p542
+aVsuper-bantamweight
+p543
+aVbantamweight
+p544
+aVsuper-flyweight
+p545
+aVflyweight
+p546
+aVlight flyweight
+p547
+aVstraw
+p548
+aVIBF
+p549
+aVWBA
+p550
+aVWBC
+p551
+aVWBO
+p552
+aVFrench boxing
+p553
+aVThai boxing
+p554
+aVcanoeing and kayaking
+p555
+aVSlalom
+p556
+ag433
+ag488
+ag436
+aVK1
+p557
+aVK2
+p558
+aVK4
+p559
+aVC1
+p560
+aVC2
+p561
+aVC4
+p562
+aVcanoe sailing
+p563
+aVpontoniering
+p564
+aVclimbing
+p565
+aVmountaineering
+p566
+aVsport climbing
+p567
+aVcricket
+p568
+aVcurling
+p569
+aVicestock sport
+p570
+aVcycling
+p571
+aVtrack
+p572
+aVpursuit
+p573
+aVOlympic sprint
+p574
+aVsprint
+p575
+aVKeirin
+p576
+aVpoints race
+p577
+aVMadison race
+p578
+aV500 m time trial
+p579
+aV1 km time trial
+p580
+ag444
+aVroad race
+p581
+aVroad time trial
+p582
+aVstaging race
+p583
+aVcyclo-cross
+p584
+aVVtt
+p585
+aVVtt-cross
+p586
+aVVtt-downhill
+p587
+aVbi-crossing
+p588
+aVtrial
+p589
+aVartistic cycling
+p590
+aVcycle ball
+p591
+aVdancing
+p592
+aVdiving
+p593
+aV10 m platform
+p594
+aV10 m platform synchronised
+p595
+aV3 m springboard
+p596
+aV3 m springboard synchronised
+p597
+aVsubaquatics
+p598
+aVscuba diving
+p599
+aVequestrian
+p600
+aVthree-day event
+p601
+aVdressage
+p602
+aVjumping
+p603
+aVcross country
+p604
+aVfencing
+p605
+aVepee
+p606
+aVfoil
+p607
+aVsabre
+p608
+aVfield Hockey
+p609
+aVroll hockey
+p610
+aVfigure Skating
+p611
+aVsingles
+p612
+aVpairs
+p613
+aVice dance
+p614
+aVfreestyle Skiing
+p615
+aVmoguls
+p616
+aVaerials
+p617
+aVartistic skiing
+p618
+aVgolf
+p619
+aVgymnastics
+p620
+aVfloor exercise
+p621
+aVvault
+p622
+aVpommel horse
+p623
+aVuneven bars
+p624
+aVparallel bars
+p625
+aVhorizontal bar
+p626
+aVrings
+p627
+aVbeam
+p628
+aVrhythmic
+p629
+aVclubs
+p630
+aVhoop
+p631
+aVribbon
+p632
+aVrope
+p633
+aVball
+p634
+aVtrampoline
+p635
+aVhandball (team)
+p636
+aVhorse racing, harness racing
+p637
+aVflat racing
+p638
+aVsteeple chase
+p639
+aVtrotting
+p640
+ag604
+aVice hockey
+p641
+aVNational Hockey League (North American)
+p642
+aVsledge hockey
+p643
+aVJai Alai (Pelota)
+p644
+aVfronton
+p645
+aVjai-alai
+p646
+aVleft wall
+p647
+aVtrinquet
+p648
+aVrebot
+p649
+aVchistera ancha
+p650
+aVchistera corta
+p651
+aVbare hand
+p652
+aVpala-ancha
+p653
+aVpala-corta
+p654
+aVpasaka
+p655
+aVxare
+p656
+aVjudo
+p657
+ag532
+aVhalf-heavyweight
+p658
+ag536
+aVhalf-middleweight
+p659
+aVhalf-lightweight
+p660
+ag540
+aVextra lightweight
+p661
+aVkarate
+p662
+aVsparring
+p663
+aVformal exercise-DEPRECATED
+p664
+aVlacrosse
+p665
+aVluge
+p666
+ag612
+aVdoubles
+p667
+aVmarathon
+p668
+aVmodern pentathlon
+p669
+aVrunning
+p670
+aVshooting
+p671
+aVswimming
+p672
+ag605
+aVshowjumping
+p673
+aVmotor racing
+p674
+aVFormula One
+p675
+aVF3000
+p676
+aVendurance
+p677
+aVIndy
+p678
+aVCART
+p679
+aVNHRA
+p680
+aVNASCAR
+p681
+aVTRUCKI
+p682
+aVmotor rallying
+p683
+aVrallying
+p684
+ag573
+aVrallycross
+p685
+aVmotorcycling
+p686
+aVspeed-Grand-Prix
+p687
+aVenduro
+p688
+aVgrass-track
+p689
+aVmoto-ball
+p690
+aVmoto-cross
+p691
+ag684
+ag589
+ag677
+aVsuperbike
+p692
+aV125 cm3
+p693
+aV250 cm3
+p694
+aV500 cm3
+p695
+aVside-cars
+p696
+aVmotoGP
+p697
+aVnetball
+p698
+aVnordic skiing
+p699
+aVcross-country
+p700
+aV5 km classical time
+p701
+aV10 km classical style
+p702
+aV10 km pursuit free style
+p703
+aV15 km classical style
+p704
+aV15 km pursuit free style
+p705
+aV10 km + 15 km combined
+p706
+aV30 km classical style
+p707
+aV30km free style
+p708
+aV50 km free style
+p709
+aV4x5 km relay
+p710
+aV4x10 km relay
+p711
+aVnordic combined
+p712
+aVraid
+p713
+aV5 km pursuit free style
+p714
+aV1.5 km sprint free
+p715
+aV50 km classic style
+p716
+aVorienteering
+p717
+aVski orienteering
+p718
+aVpolo
+p719
+aVpower boating
+p720
+aVF1
+p721
+aVF2
+p722
+aVrowing
+p723
+aVsingle sculls
+p724
+aVdouble sculls
+p725
+aVquadruple sculls
+p726
+aVcoxless pair
+p727
+aVcoxless four
+p728
+aVeight
+p729
+ag540
+aVrugby league
+p730
+aVrugby union
+p731
+aVrugby 7
+p732
+aVsailing
+p733
+aVTornado
+p734
+aVsoling
+p735
+aV49er
+p736
+aVEurope
+p737
+aVLaser
+p738
+aF470.0
+aVFinn
+p739
+aVStar
+p740
+aVflying dutchmann
+p741
+aF505.0
+ag583
+aVaround the world
+p742
+aVmonohull
+p743
+aVmultihulls
+p744
+aVyngling
+p745
+aVmistral
+p746
+ag671
+aV10 m air rifle
+p747
+aV10 m air pistol
+p748
+aV10 m running target
+p749
+aV25 m rapid fire pistol
+p750
+aV25 m sport pistol
+p751
+aV50 m free pistol
+p752
+aV50 m free rifle prone
+p753
+aV50 m free rifle 3x40
+p754
+aV50 m sport rifle 3x20
+p755
+aVtrap
+p756
+aVdouble trap
+p757
+aVskeet
+p758
+aVski jumping
+p759
+aVK90 jump
+p760
+aVK120 jump
+p761
+aVK180 (flying jump)
+p762
+aVsnow boarding
+p763
+ag420
+aVhalf-pipe
+p764
+aVsoccer
+p765
+aVsoftball
+p766
+aVspeed skating
+p767
+ag488
+ag436
+ag437
+ag440
+ag441
+aV10000 m
+p768
+aVShort-track
+p769
+aVst 500 m
+p770
+aVst 1000m
+p771
+aVst 1500m
+p772
+aVst 3000m
+p773
+aVst 3000m relay
+p774
+aVst 5000m
+p775
+aVst 5000m relay
+p776
+aVspeedway
+p777
+aVsports organisations
+p778
+aVIOC
+p779
+aVinternational federation
+p780
+aVcontinental federation
+p781
+aVnational federation
+p782
+aVGAISF
+p783
+aVsquash
+p784
+aVsumo wrestling
+p785
+aVsurfing
+p786
+ag672
+aV50 m freestyle
+p787
+aV100 m freestyle
+p788
+aV200 m freestyle
+p789
+aV400 m freestyle
+p790
+aV800 m freestyle
+p791
+aV1500 m freestyle
+p792
+aVrelay 4x50 m freestyle
+p793
+aVrelay 4x100 m freestyle
+p794
+aVrelay 4x200 m freestyle
+p795
+aV50 m backstroke
+p796
+aV100 m backstroke
+p797
+aV200 m backstroke
+p798
+aV50 m breaststroke
+p799
+aV100 m breaststroke
+p800
+aV200 m breaststroke
+p801
+aV50 m butterfly
+p802
+aV100 m butterfly
+p803
+aV200 m butterfly
+p804
+aV100 m medley
+p805
+aV200 m medley
+p806
+aV400 m medley
+p807
+aVrelay 4x50 m medlay
+p808
+aVrelay4x100 m medley
+p809
+aVshort course
+p810
+aVsynchronised technical routine
+p811
+aVsynchronised free routine
+p812
+aVtable tennis
+p813
+aVTaekwon-Do
+p814
+aVunder 49 kg
+p815
+aVunder 58 kg
+p816
+aV49-57 kg
+p817
+aV58-68 kg
+p818
+aV57-67 kg
+p819
+aV68-80 kg
+p820
+aVover 67 kg
+p821
+aVover 80 kg
+p822
+aVtennis
+p823
+aVsoft tennis
+p824
+aVtriathlon
+p825
+aVtriathlon swimming
+p826
+aVtriathlon cycling
+p827
+aVtriathlon run
+p828
+aVvolleyball
+p829
+aVbeach volleyball
+p830
+aVwater polo
+p831
+aVwater skiing
+p832
+ag422
+aVtrick
+p833
+aVjump
+p834
+ag423
+aVweightlifting
+p835
+aVsnatch
+p836
+aVclean and jerk
+p837
+aV48 kg
+p838
+aV53 kg
+p839
+aV63 kg
+p840
+aV75 kg
+p841
+aVover 75 kg
+p842
+aV56 kg
+p843
+aV62 kg
+p844
+aV69 kg
+p845
+aV77 kg
+p846
+aV85 kg
+p847
+aV94 kg
+p848
+aV105 kg
+p849
+aVover 105 kg
+p850
+aVpowerlifting
+p851
+aVwindsurfing
+p852
+aVocean
+p853
+aVlake
+p854
+aVriver
+p855
+aVland
+p856
+aVwrestling
+p857
+aVfreestyle
+p858
+aVgreco-roman
+p859
+aVover 130 kg
+p860
+aV130 kg
+p861
+aV97 kg
+p862
+ag847
+aV76 kg
+p863
+ag845
+ag840
+aV58 kg
+p864
+aV54 kg
+p865
+aVSwiss wrestling
+p866
+aVsports event
+p867
+aVSummer Olympics
+p868
+aVWinter Olympics
+p869
+aVSummer universiade
+p870
+aVWinter Universiade
+p871
+aVCommonwealth Games
+p872
+aVWinter Goodwill Games
+p873
+aVSummer Asian Games
+p874
+aVWinter Asian Games
+p875
+aVPanamerican Games
+p876
+aVAfrican Games
+p877
+aVMediterranean Games
+p878
+aVSouthEast Asiatic Games
+p879
+aVPanPacific Games
+p880
+aVSouthPacific Games
+p881
+aVPanArabic Games
+p882
+aVSummer Goodwill Games
+p883
+aVWorld games
+p884
+aVWorld Cup
+p885
+aVintercontinental cup
+p886
+aVcontinental cup
+p887
+aVinternational cup
+p888
+aVNational Cup
+p889
+aVinterregional cup
+p890
+aVregional cup
+p891
+aVleague cup
+p892
+aVworld championship
+p893
+aVintercontinental championship
+p894
+aVcontinental championship 1st level
+p895
+aVcontinental championship 2nd level
+p896
+aVcontinental championship 3rd level
+p897
+aVnational championship 1st level
+p898
+aVnational championship 2nd level
+p899
+aVnational championship3rdlevel
+p900
+aVnational championship 4th level
+p901
+aVregional championship
+p902
+aVGrand Prix
+p903
+aVintercontinental tournament
+p904
+aVcontinental tournament
+p905
+aVinternational tournament
+p906
+aVnational tournament
+p907
+aVinter-nations competition
+p908
+aVinter-clubs competition
+p909
+aVfriendly competition
+p910
+aVall-stars competition
+p911
+aVexhibition
+p912
+aVSuper Bowl
+p913
+aVparalympic games
+p914
+aVrodeo
+p915
+aVbarrel racing
+p916
+aVcalf roping
+p917
+aVbull riding
+p918
+aVbulldogging
+p919
+aVsaddle bronc
+p920
+aVbareback
+p921
+aVgoat roping
+p922
+aVmini golf sport
+p923
+aVbandy
+p924
+aVflying disc
+p925
+aVultimate
+p926
+aVguts
+p927
+aVoverall
+p928
+aVdistance
+p929
+aVdiscathon
+p930
+aVDDC
+p931
+aVSCF
+p932
+ag858
+aVaccuracy
+p933
+aVdisc golf
+p934
+aVfloorball
+p935
+aVcasting
+p936
+aVtug-of-war
+p937
+aVcroquette
+p938
+aVdog racing
+p939
+aVsled
+p940
+aVoval track
+p941
+aVskeleton
+p942
+aVAustralian rules football
+p943
+aVCanadian football
+p944
+aVduathlon
+p945
+aVhornuss
+p946
+aVfist ball
+p947
+aVinline skating
+p948
+aVgrass ski
+p949
+aVsnowbiking
+p950
+aVtwirling
+p951
+aVkendo
+p952
+aVjukendo
+p953
+aVnaginata
+p954
+aVkyudo
+p955
+aVkabaddi
+p956
+aVsepak takraw
+p957
+aVwushu
+p958
+aVdarts
+p959
+aVbodybuilding
+p960
+aVsports disciplinary action
+p961
+aVsports awards
+p962
+asVsocial issue
+p963
+(lp964
+Vaddiction
+p965
+aVcharity
+p966
+aVdemographics
+p967
+aVpopulation and census
+p968
+aVimmigration
+p969
+aVillegal immigrants
+p970
+aVemigrants
+p971
+aVdisabled
+p972
+aVeuthanasia (also includes assisted suicide)
+p973
+aVsuicide
+p974
+aVfamily
+p975
+aVparent and child
+p976
+aVadoption
+p977
+aVmarriage
+p978
+aVdivorce
+p979
+aVsex
+p980
+aVcourtship
+p981
+aVfamily planning
+p982
+aVhealth insurance
+p983
+aVhomelessness
+p984
+aVminority group
+p985
+aVgays and lesbians
+p986
+aVnational or ethnic minority
+p987
+aVpornography
+p988
+aVpoverty
+p989
+aVprostitution
+p990
+aVracism
+p991
+aVwelfare
+p992
+aVabortion
+p993
+aVmissing person
+p994
+aVmissing due to hostilities
+p995
+aVlong term care
+p996
+aVjuvenile delinquency
+p997
+aVnuclear radiation victims
+p998
+aVslavery
+p999
+aVabusive behaviour
+p1000
+aVdeath and dying
+p1001
+ag273
+aVchildren
+p1002
+aVinfants
+p1003
+aVteen-agers
+p1004
+aVadults
+p1005
+aVsenior citizens
+p1006
+aVsocial issues (general)
+p1007
+aVsocial conditions
+p1008
+aVsocial problems
+p1009
+aVdiscrimination
+p1010
+aVsocial services
+p1011
+aVdeath penalty policies
+p1012
+aVordnance clearance
+p1013
+aVreconstruction
+p1014
+asVcrime law and justice
+p1015
+(lp1016
+Vcrime
+p1017
+aVhomicide
+p1018
+aVcomputer crime
+p1019
+aVtheft
+p1020
+aVdrug trafficking
+p1021
+aVsexual assault
+p1022
+aVassault (general)
+p1023
+aVkidnapping
+p1024
+aVarson
+p1025
+aVgang activity
+p1026
+aVterrorism
+p1027
+aVjudiciary (system of justice)
+p1028
+aVlawyer
+p1029
+aVjudge
+p1030
+aVcourt administration
+p1031
+aVpolice
+p1032
+aVlaw enforcement
+p1033
+aVinvestigation
+p1034
+aVarrest
+p1035
+aVpunishment
+p1036
+aVfine
+p1037
+aVexecution
+p1038
+aVprison
+p1039
+aVlaws
+p1040
+aVcriminal
+p1041
+aVcivil
+p1042
+aVjustice and rights
+p1043
+aVcivil rights
+p1044
+aVtrials
+p1045
+aVlitigation
+p1046
+aVarbitration
+p1047
+aVcourt preliminary
+p1048
+aVprosecution
+p1049
+aVdefendant
+p1050
+aVwitness
+p1051
+aVorganized crime
+p1052
+aVinternational law
+p1053
+aVinternational court or tribunal
+p1054
+aVextradition
+p1055
+aVcorporate crime
+p1056
+aVfraud
+p1057
+aVembezzlement
+p1058
+aVrestraint of trade
+p1059
+aVbreach of contract
+p1060
+aVanti-trust crime
+p1061
+aVcorruption
+p1062
+aVbribery
+p1063
+aVwar crime
+p1064
+aVinquest
+p1065
+aVinquiry
+p1066
+aVtribunal
+p1067
+asVhealth
+p1068
+(lp1069
+Vdisease
+p1070
+aVcommunicable diseases
+p1071
+aVvirus diseases
+p1072
+aVAIDS
+p1073
+aVcancer
+p1074
+aVheart disease
+p1075
+aValzheimer's disease
+p1076
+aVanimal diseases
+p1077
+aVplant diseases
+p1078
+aVretrovirus
+p1079
+aVepidemic and plague
+p1080
+aVhealth treatment
+p1081
+aVprescription drugs
+p1082
+aVdietary supplements
+p1083
+aVdiet
+p1084
+aVmedical procedure/test
+p1085
+aVtherapy
+p1086
+aVhealth organisations
+p1087
+aVmedical research
+p1088
+aVmedical staff
+p1089
+aVprimary care physician
+p1090
+aVhealth-workers union
+p1091
+aVmedicine
+p1092
+aVherbal
+p1093
+aVholistic
+p1094
+aVwestern
+p1095
+aVtraditional Chinese
+p1096
+aVpreventative medicine
+p1097
+aVvaccines
+p1098
+aVinjury
+p1099
+aVhospital and clinic
+p1100
+aVgovernment health care
+p1101
+aVmedicare
+p1102
+aVmedicaid
+p1103
+aVprivate health care
+p1104
+aVhealthcare policy
+p1105
+aVfood safety
+p1106
+aVmedical specialisation
+p1107
+aVgeriatric
+p1108
+aVpediatrics
+p1109
+aVreproduction
+p1110
+aVgenetics
+p1111
+aVobstetrics/gynecology
+p1112
+aVmedical service
+p1113
+aVphysical fitness
+p1114
+aVillness
+p1115
+aVmental illness
+p1116
+aVeating disorder
+p1117
+aVobesity
+p1118
+aVmedical conditions
+p1119
+aVpatient
+p1120
+asVweather
+p1121
+(lp1122
+Vforecast
+p1123
+aVglobal change
+p1124
+aVreport
+p1125
+aVweather news
+p1126
+aVstatistic
+p1127
+aVwarning
+p1128
+asVdisaster and accident
+p1129
+(lp1130
+Vdrought
+p1131
+aVearthquake
+p1132
+aVfamine
+p1133
+aVfire
+p1134
+aVflood
+p1135
+aVindustrial accident
+p1136
+aVstructural failures
+p1137
+aVmeteorological disaster
+p1138
+aVwindstorms
+p1139
+aVnuclear accident
+p1140
+aVpollution
+p1141
+aVtransport accident
+p1142
+aVroad accident
+p1143
+aVrailway accident
+p1144
+aVair and space accident
+p1145
+aVmaritime accident
+p1146
+aVvolcanic eruption
+p1147
+aVrelief and aid organisation
+p1148
+aVaccident (general)
+p1149
+aVemergency incident
+p1150
+aVexplosion
+p1151
+aVdisaster (general)
+p1152
+aVnatural disasters
+p1153
+aVavalanche/landslide
+p1154
+aVemergency planning
+p1155
+aVrescue
+p1156
+asVpolitics
+p1157
+(lp1158
+Vdefence
+p1159
+aVveterans affairs
+p1160
+aVnational security
+p1161
+aVsecurity measures
+p1162
+aVarmed Forces
+p1163
+aVmilitary equipment
+p1164
+aVfirearms
+p1165
+aVbiological and chemical weapons
+p1166
+aVmissile systems
+p1167
+aVnuclear weapons
+p1168
+aVdiplomacy
+p1169
+aVsummit
+p1170
+aVinternational relations
+p1171
+aVpeace negotiations
+p1172
+aValliances
+p1173
+aVelection
+p1174
+aVpolitical candidates
+p1175
+aVpolitical campaigns
+p1176
+aVcampaign finance
+p1177
+aVnational elections
+p1178
+aVregional elections
+p1179
+aVlocal elections
+p1180
+aVvoting
+p1181
+aVpoll
+p1182
+aVeuropean elections
+p1183
+aVprimary
+p1184
+aVespionage and intelligence
+p1185
+aVforeign aid
+p1186
+aVeconomic sanction
+p1187
+aVgovernment
+p1188
+aVcivil and public service
+p1189
+aVsafety of citizens
+p1190
+aVthink tank
+p1191
+aVnational government
+p1192
+aVexecutive (government)
+p1193
+aVheads of state
+p1194
+aVgovernment departments
+p1195
+aVpublic officials
+p1196
+aVministers (government)
+p1197
+aVpublic employees
+p1198
+ag210
+aVnationalisation
+p1199
+aVimpeachment
+p1200
+aVhuman rights
+p1201
+aVlocal authority
+p1202
+aVparliament
+p1203
+aVupper house
+p1204
+aVlower house
+p1205
+aVparties and movements
+p1206
+aVnon government organizations (NGO)
+p1207
+aVrefugee
+p1208
+aVregional authority
+p1209
+aVstate budget and tax
+p1210
+aVpublic finance
+p1211
+aVtreaty and international organisation-DEPRECATED
+p1212
+aVinternational relations-DEPRECATED
+p1213
+aVpeace negotiations-DEPRECATED
+p1214
+aValliances-DEPRECATED
+p1215
+aVconstitution
+p1216
+aVinterior policy
+p1217
+aVdata protection
+p1218
+aVhousing and urban planning
+p1219
+aVpension and welfare
+p1220
+aVpersonal weapon control
+p1221
+aVindigenous people
+p1222
+aVpersonal data collection
+p1223
+aVplanning inquiries
+p1224
+aVmigration
+p1225
+aVcitizens initiative and recall
+p1226
+aVreferenda
+p1227
+aVnuclear policy
+p1228
+aVlobbying
+p1229
+aVregulatory policy and organisation
+p1230
+aVcensorship
+p1231
+aVpolitics (general)
+p1232
+aVpolitical systems
+p1233
+aVdemocracy
+p1234
+aVpolitical development
+p1235
+aVfreedom of the press
+p1236
+aVfreedom of religion
+p1237
+aVtreaty
+p1238
+aVinternational organisation
+p1239
+asVeducation
+p1240
+(lp1241
+Vadult education
+p1242
+aVfurther education
+p1243
+aVparent organisation
+p1244
+aVpreschool
+p1245
+aVschool
+p1246
+aVelementary schools
+p1247
+aVmiddle schools
+p1248
+aVhigh schools
+p1249
+aVteachers union
+p1250
+aVuniversity
+p1251
+aVupbringing
+p1252
+aVentrance examination
+p1253
+aVteaching and learning
+p1254
+aVstudents
+p1255
+aVteachers
+p1256
+aVcurriculum
+p1257
+aVtest/examination
+p1258
+aVreligious education
+p1259
+aVparochial school
+p1260
+aVseminary
+p1261
+aVyeshiva
+p1262
+aVmadrasa
+p1263
+asVlabour
+p1264
+(lp1265
+Vapprentices
+p1266
+aVcollective contract
+p1267
+aVcontract issue-wages
+p1268
+aVcontract issue-healthcare
+p1269
+aVcontract issue-work rules
+p1270
+aVemployment
+p1271
+aVlabor market
+p1272
+aVjob layoffs
+p1273
+aVchild labor
+p1274
+aVoccupations
+p1275
+aVlabour dispute
+p1276
+aVlabour legislation
+p1277
+aVretirement
+p1278
+aVretraining
+p1279
+aVstrike
+p1280
+aVunemployment
+p1281
+aVunions
+p1282
+aVwage and pension
+p1283
+aVemployee benefits
+p1284
+aVsocial security
+p1285
+aVwork relations
+p1286
+aVhealth and safety at work
+p1287
+aVadvanced training
+p1288
+aVemployer
+p1289
+aVemployee
+p1290
+asVreligion and belief
+p1291
+(lp1292
+Vcult and sect
+p1293
+aVbelief (faith)
+p1294
+aVunificationism
+p1295
+aVscientology
+p1296
+aVfreemasonry
+p1297
+aVreligion-DEPRECATED
+p1298
+aVchristianity-DEPRECATED
+p1299
+aVislam-DEPRECATED
+p1300
+aVjudaism-DEPRECATED
+p1301
+aVbuddhism-DEPRECATED
+p1302
+aVhinduism-DEPRECATED
+p1303
+aVchurch (organisation)-DEPRECATED
+p1304
+aVreligious facilities-DEPRECATED
+p1305
+aVvalues
+p1306
+aVethics
+p1307
+aVcorrupt practices
+p1308
+aVchurch and state relations
+p1309
+aVphilosophy
+p1310
+aVchristianity
+p1311
+aVprotestant
+p1312
+aVlutheran
+p1313
+aVreformed
+p1314
+aVanglican
+p1315
+aVmethodist
+p1316
+aVbaptist
+p1317
+aVmennonite
+p1318
+aVmormon
+p1319
+aVroman catholic
+p1320
+aVold catholic
+p1321
+aVorthodoxy
+p1322
+aVsalvation army
+p1323
+aVislam
+p1324
+aVjudaism
+p1325
+aVbuddhism
+p1326
+aVhinduism
+p1327
+aVreligious festival or holiday
+p1328
+aVchristmas
+p1329
+aVeaster
+p1330
+aVpentecost
+p1331
+aVramadan
+p1332
+aVyom kippur
+p1333
+aVreligious leader
+p1334
+aVpope
+p1335
+aVnature religion
+p1336
+aVtaoism
+p1337
+aVshintoism
+p1338
+aVsikhism
+p1339
+aVjainism
+p1340
+aVparsasm
+p1341
+aVconfucianism
+p1342
+aVreligious text
+p1343
+aVbible
+p1344
+aVqur'an
+p1345
+aVtorah
+p1346
+aVinterreligious dialogue
+p1347
+aVreligious event
+p1348
+aVcatholic convention
+p1349
+aVprotestant convention
+p1350
+aVritual
+p1351
+aVconcordat
+p1352
+aVecumenism
+p1353
+asVunrest conflicts and war
+p1354
+(lp1355
+Vact of terror
+p1356
+aVarmed conflict
+p1357
+aVcivil unrest
+p1358
+aVrevolutions
+p1359
+aVrebellions
+p1360
+aVpolitical dissent
+p1361
+aVreligious conflict
+p1362
+aVsocial conflict
+p1363
+aVcoup d'etat
+p1364
+aVguerrilla activity
+p1365
+aVbioterrorism
+p1366
+aVbombings
+p1367
+aVmassacre
+p1368
+aVgenocide
+p1369
+aVriots
+p1370
+aVdemonstration
+p1371
+aVwar
+p1372
+aVcivil war
+p1373
+aVinternational military intervention
+p1374
+aVprisoners and detainees
+p1375
+aVconflict (general)
+p1376
+aVpeacekeeping force
+p1377
+aVcrisis
+p1378
+aVweaponry
+p1379
+as.

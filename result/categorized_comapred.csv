@@ -1,0 +1,1470 @@
+1,economy business and finance,weather
+2,economy business and finance,health
+3,economy business and finance,economy business and finance
+4,sport,sport
+5,weather,weather
+6,economy business and finance,economy business and finance
+7,politics,crime law and justice
+8,economy business and finance,economy business and finance
+9,crime law and justice,crime law and justice
+10,politics,politics
+11,economy business and finance,economy business and finance
+12,economy business and finance,economy business and finance
+13,economy business and finance,economy business and finance
+14,economy business and finance,economy business and finance
+15,weather,weather
+16,economy business and finance,economy business and finance
+17,environmental issue,environmental issue
+18,economy business and finance,economy business and finance
+19,sport,sport
+20,economy business and finance,economy business and finance
+21,politics,politics
+22,sport,sport
+23,economy business and finance,economy business and finance
+24,economy business and finance,economy business and finance
+25,economy business and finance,economy business and finance
+26,economy business and finance,arts culture and entertainment
+27,crime law and justice,crime law and justice
+28,sport,sport
+29,sport,crime law and justice
+30,arts culture and entertainment,arts culture and entertainment
+31,economy business and finance,health
+32,religion and belief,religion and belief
+33,politics,politics
+34,sport,arts culture and entertainment
+35,sport,sport
+36,economy business and finance,economy business and finance
+37,politics,politics
+38,economy business and finance,economy business and finance
+39,arts culture and entertainment,politics
+40,environmental issue,labour
+41,sport,economy business and finance
+42,general,general
+43,social issue,social issue
+44,labour,education
+45,weather,economy business and finance
+46,lifestyle and leisure,lifestyle and leisure
+47,weather,politics
+48,labour,religion and belief
+49,sport,weather
+50,education,politics
+51,environmental issue,environmental issue
+52,politics,politics
+53,education,education
+54,social issue,social issue
+55,economy business and finance,crime law and justice
+56,social issue,sport
+57,social issue,social issue
+58,education,science and technology
+59,social issue,social issue
+60,politics,economy business and finance
+61,social issue,social issue
+62,health,health
+63,education,education
+64,education,education
+65,education,education
+66,education,education
+67,sport,sport
+68,sport,sport
+69,education,education
+70,education,education
+71,health,health
+72,sport,sport
+73,sport,sport
+74,religion and belief,religion and belief
+75,education,education
+76,economy business and finance,economy business and finance
+77,arts culture and entertainment,arts culture and entertainment
+78,health,health
+79,social issue,weather
+80,general,education
+81,education,education
+82,general,general
+83,sport,sport
+84,social issue,social issue
+85,health,health
+86,human interest,human interest
+87,education,education
+88,sport,sport
+89,education,education
+90,social issue,social issue
+91,economy business and finance,environmental issue
+92,crime law and justice,crime law and justice
+93,health,health
+94,health,health
+95,economy business and finance,economy business and finance
+96,weather,weather
+97,health,health
+98,health,health
+99,human interest,human interest
+100,health,health
+101,politics,politics
+102,health,health
+103,general,education
+104,economy business and finance,economy business and finance
+105,health,health
+106,human interest,health
+107,arts culture and entertainment,labour
+108,general,general
+109,health,health
+110,lifestyle and leisure,labour
+111,health,health
+112,unrest conflicts and war,environmental issue
+113,economy business and finance,economy business and finance
+114,health,health
+115,social issue,lifestyle and leisure
+116,general,environmental issue
+117,crime law and justice,crime law and justice
+118,health,health
+119,health,health
+120,general,general
+121,education,lifestyle and leisure
+122,unrest conflicts and war,unrest conflicts and war
+123,crime law and justice,crime law and justice
+124,environmental issue,environmental issue
+125,disaster and accident,politics
+126,health,politics
+127,social issue,social issue
+128,weather,sport
+129,environmental issue,sport
+130,sport,sport
+131,weather,sport
+132,sport,science and technology
+133,sport,economy business and finance
+134,economy business and finance,economy business and finance
+135,economy business and finance,health
+136,human interest,human interest
+137,sport,sport
+138,disaster and accident,disaster and accident
+139,disaster and accident,crime law and justice
+140,economy business and finance,human interest
+141,economy business and finance,economy business and finance
+142,human interest,human interest
+143,sport,economy business and finance
+144,sport,sport
+145,human interest,social issue
+146,economy business and finance,weather
+147,weather,health
+148,education,education
+149,human interest,arts culture and entertainment
+150,sport,sport
+151,economy business and finance,economy business and finance
+152,lifestyle and leisure,sport
+153,environmental issue,environmental issue
+154,science and technology,science and technology
+155,economy business and finance,economy business and finance
+156,human interest,environmental issue
+157,economy business and finance,sport
+158,economy business and finance,economy business and finance
+159,economy business and finance,economy business and finance
+160,sport,science and technology
+161,economy business and finance,economy business and finance
+162,science and technology,environmental issue
+163,science and technology,science and technology
+164,environmental issue,environmental issue
+165,human interest,economy business and finance
+166,environmental issue,health
+167,sport,sport
+168,economy business and finance,sport
+169,science and technology,science and technology
+170,sport,sport
+171,environmental issue,environmental issue
+172,social issue,lifestyle and leisure
+173,human interest,disaster and accident
+174,general,labour
+175,education,lifestyle and leisure
+176,science and technology,science and technology
+177,general,general
+178,environmental issue,weather
+179,sport,health
+180,economy business and finance,economy business and finance
+181,politics,human interest
+182,economy business and finance,economy business and finance
+183,social issue,social issue
+184,labour,religion and belief
+185,crime law and justice,crime law and justice
+186,economy business and finance,economy business and finance
+187,lifestyle and leisure,economy business and finance
+188,economy business and finance,economy business and finance
+189,religion and belief,religion and belief
+190,religion and belief,politics
+191,economy business and finance,environmental issue
+192,politics,politics
+193,crime law and justice,crime law and justice
+194,politics,politics
+195,weather,weather
+196,politics,politics
+197,economy business and finance,health
+198,politics,health
+199,economy business and finance,lifestyle and leisure
+200,politics,politics
+201,economy business and finance,lifestyle and leisure
+202,politics,politics
+203,sport,sport
+204,religion and belief,religion and belief
+205,economy business and finance,economy business and finance
+206,sport,sport
+207,social issue,social issue
+208,politics,politics
+209,labour,lifestyle and leisure
+210,religion and belief,labour
+211,economy business and finance,economy business and finance
+212,religion and belief,religion and belief
+213,science and technology,science and technology
+214,lifestyle and leisure,labour
+215,economy business and finance,economy business and finance
+216,social issue,social issue
+217,crime law and justice,crime law and justice
+218,human interest,religion and belief
+219,labour,labour
+220,sport,sport
+221,sport,human interest
+222,politics,politics
+223,human interest,human interest
+224,social issue,politics
+225,general,lifestyle and leisure
+226,politics,politics
+227,general,general
+228,politics,politics
+229,general,general
+230,sport,sport
+231,politics,politics
+232,social issue,social issue
+233,economy business and finance,economy business and finance
+234,crime law and justice,health
+235,economy business and finance,economy business and finance
+236,sport,crime law and justice
+237,arts culture and entertainment,human interest
+238,general,health
+239,economy business and finance,economy business and finance
+240,human interest,human interest
+241,economy business and finance,economy business and finance
+242,arts culture and entertainment,arts culture and entertainment
+243,economy business and finance,economy business and finance
+244,economy business and finance,economy business and finance
+245,lifestyle and leisure,lifestyle and leisure
+246,economy business and finance,science and technology
+247,economy business and finance,economy business and finance
+248,arts culture and entertainment,sport
+249,arts culture and entertainment,arts culture and entertainment
+250,labour,labour
+251,lifestyle and leisure,arts culture and entertainment
+252,sport,sport
+253,human interest,politics
+254,arts culture and entertainment,arts culture and entertainment
+255,economy business and finance,education
+256,human interest,labour
+257,social issue,social issue
+258,economy business and finance,economy business and finance
+259,education,education
+260,social issue,social issue
+261,economy business and finance,lifestyle and leisure
+262,economy business and finance,economy business and finance
+263,sport,arts culture and entertainment
+264,sport,arts culture and entertainment
+265,arts culture and entertainment,arts culture and entertainment
+266,arts culture and entertainment,arts culture and entertainment
+267,politics,politics
+268,sport,sport
+269,general,arts culture and entertainment
+270,social issue,sport
+271,labour,labour
+272,economy business and finance,human interest
+273,health,health
+274,social issue,crime law and justice
+275,politics,weather
+276,economy business and finance,politics
+277,politics,politics
+278,crime law and justice,crime law and justice
+279,economy business and finance,crime law and justice
+280,economy business and finance,economy business and finance
+281,social issue,labour
+282,sport,sport
+283,politics,politics
+284,economy business and finance,sport
+285,crime law and justice,sport
+286,social issue,lifestyle and leisure
+287,crime law and justice,human interest
+288,health,health
+289,crime law and justice,crime law and justice
+290,environmental issue,economy business and finance
+291,unrest conflicts and war,unrest conflicts and war
+292,labour,science and technology
+293,crime law and justice,crime law and justice
+294,education,education
+295,politics,lifestyle and leisure
+296,arts culture and entertainment,arts culture and entertainment
+297,social issue,social issue
+298,crime law and justice,crime law and justice
+299,sport,sport
+300,economy business and finance,economy business and finance
+301,social issue,social issue
+302,lifestyle and leisure,lifestyle and leisure
+303,human interest,science and technology
+304,science and technology,science and technology
+305,human interest,health
+306,sport,sport
+307,social issue,social issue
+308,health,health
+309,lifestyle and leisure,lifestyle and leisure
+310,health,health
+311,social issue,social issue
+312,sport,sport
+313,sport,arts culture and entertainment
+314,arts culture and entertainment,arts culture and entertainment
+315,general,arts culture and entertainment
+316,economy business and finance,arts culture and entertainment
+317,economy business and finance,environmental issue
+318,arts culture and entertainment,weather
+319,sport,sport
+320,human interest,human interest
+321,economy business and finance,sport
+322,arts culture and entertainment,arts culture and entertainment
+323,crime law and justice,environmental issue
+324,economy business and finance,human interest
+325,human interest,arts culture and entertainment
+326,human interest,human interest
+327,economy business and finance,economy business and finance
+328,economy business and finance,economy business and finance
+329,economy business and finance,lifestyle and leisure
+330,arts culture and entertainment,arts culture and entertainment
+331,lifestyle and leisure,economy business and finance
+332,arts culture and entertainment,arts culture and entertainment
+333,economy business and finance,sport
+334,lifestyle and leisure,education
+335,economy business and finance,human interest
+336,arts culture and entertainment,health
+337,economy business and finance,economy business and finance
+338,economy business and finance,economy business and finance
+339,lifestyle and leisure,economy business and finance
+340,sport,sport
+341,economy business and finance,sport
+342,arts culture and entertainment,arts culture and entertainment
+343,economy business and finance,social issue
+344,economy business and finance,economy business and finance
+345,economy business and finance,economy business and finance
+346,economy business and finance,health
+347,social issue,social issue
+348,human interest,politics
+349,sport,sport
+350,sport,sport
+351,economy business and finance,economy business and finance
+352,sport,education
+353,economy business and finance,economy business and finance
+354,human interest,arts culture and entertainment
+355,economy business and finance,lifestyle and leisure
+356,sport,lifestyle and leisure
+357,lifestyle and leisure,human interest
+358,arts culture and entertainment,arts culture and entertainment
+359,sport,sport
+360,education,education
+361,sport,sport
+362,sport,sport
+363,sport,sport
+364,social issue,social issue
+365,lifestyle and leisure,crime law and justice
+366,economy business and finance,arts culture and entertainment
+367,lifestyle and leisure,lifestyle and leisure
+368,economy business and finance,economy business and finance
+369,disaster and accident,disaster and accident
+370,social issue,labour
+371,human interest,labour
+372,politics,unrest conflicts and war
+373,arts culture and entertainment,arts culture and entertainment
+374,sport,sport
+375,human interest,labour
+376,economy business and finance,economy business and finance
+377,health,health
+378,economy business and finance,crime law and justice
+379,arts culture and entertainment,arts culture and entertainment
+380,sport,sport
+381,social issue,lifestyle and leisure
+382,lifestyle and leisure,economy business and finance
+383,sport,sport
+384,sport,environmental issue
+385,economy business and finance,economy business and finance
+386,sport,sport
+387,economy business and finance,sport
+388,sport,sport
+389,crime law and justice,labour
+390,arts culture and entertainment,arts culture and entertainment
+391,economy business and finance,science and technology
+392,economy business and finance,economy business and finance
+393,social issue,economy business and finance
+394,sport,lifestyle and leisure
+395,sport,sport
+396,lifestyle and leisure,arts culture and entertainment
+397,crime law and justice,labour
+398,economy business and finance,crime law and justice
+399,sport,environmental issue
+400,sport,sport
+401,economy business and finance,arts culture and entertainment
+402,human interest,human interest
+403,politics,politics
+404,economy business and finance,weather
+405,environmental issue,environmental issue
+406,sport,labour
+407,economy business and finance,labour
+408,sport,sport
+409,crime law and justice,health
+410,crime law and justice,crime law and justice
+411,politics,politics
+412,sport,sport
+413,sport,sport
+414,disaster and accident,labour
+415,human interest,arts culture and entertainment
+416,science and technology,science and technology
+417,education,human interest
+418,economy business and finance,economy business and finance
+419,crime law and justice,crime law and justice
+420,economy business and finance,economy business and finance
+421,general,arts culture and entertainment
+422,politics,labour
+423,sport,sport
+424,disaster and accident,politics
+425,arts culture and entertainment,health
+426,sport,sport
+427,health,health
+428,sport,sport
+429,sport,sport
+430,social issue,economy business and finance
+431,sport,sport
+432,crime law and justice,crime law and justice
+433,sport,environmental issue
+434,religion and belief,human interest
+435,human interest,sport
+436,general,sport
+437,lifestyle and leisure,economy business and finance
+438,sport,sport
+439,health,health
+440,crime law and justice,labour
+441,economy business and finance,unrest conflicts and war
+442,health,health
+443,sport,sport
+444,sport,health
+445,arts culture and entertainment,lifestyle and leisure
+446,human interest,human interest
+447,social issue,labour
+448,economy business and finance,crime law and justice
+449,education,health
+450,economy business and finance,economy business and finance
+451,general,lifestyle and leisure
+452,arts culture and entertainment,human interest
+453,social issue,social issue
+454,human interest,health
+455,economy business and finance,economy business and finance
+456,economy business and finance,economy business and finance
+457,politics,health
+458,health,politics
+459,lifestyle and leisure,lifestyle and leisure
+460,crime law and justice,crime law and justice
+461,sport,crime law and justice
+462,crime law and justice,human interest
+463,sport,sport
+464,sport,sport
+465,labour,labour
+466,economy business and finance,economy business and finance
+467,sport,economy business and finance
+468,arts culture and entertainment,arts culture and entertainment
+469,education,education
+470,crime law and justice,crime law and justice
+471,crime law and justice,crime law and justice
+472,crime law and justice,crime law and justice
+473,general,general
+474,economy business and finance,economy business and finance
+475,sport,sport
+476,social issue,economy business and finance
+477,social issue,politics
+478,labour,labour
+479,economy business and finance,economy business and finance
+480,economy business and finance,health
+481,economy business and finance,economy business and finance
+482,environmental issue,environmental issue
+483,economy business and finance,weather
+484,general,general
+485,sport,sport
+486,sport,sport
+487,labour,labour
+488,unrest conflicts and war,unrest conflicts and war
+489,sport,disaster and accident
+490,lifestyle and leisure,labour
+491,sport,sport
+492,social issue,social issue
+493,human interest,sport
+494,sport,economy business and finance
+495,sport,economy business and finance
+496,general,religion and belief
+497,politics,politics
+498,economy business and finance,economy business and finance
+499,economy business and finance,economy business and finance
+500,labour,politics
+501,labour,crime law and justice
+502,arts culture and entertainment,health
+503,economy business and finance,economy business and finance
+504,politics,sport
+505,sport,health
+506,sport,weather
+507,sport,sport
+508,economy business and finance,economy business and finance
+509,economy business and finance,economy business and finance
+510,human interest,human interest
+511,general,economy business and finance
+512,social issue,social issue
+513,sport,lifestyle and leisure
+514,health,health
+515,unrest conflicts and war,unrest conflicts and war
+516,economy business and finance,health
+517,sport,sport
+518,sport,sport
+519,sport,sport
+520,economy business and finance,economy business and finance
+521,economy business and finance,economy business and finance
+522,economy business and finance,labour
+523,economy business and finance,labour
+524,economy business and finance,economy business and finance
+525,economy business and finance,economy business and finance
+526,human interest,human interest
+527,sport,sport
+528,economy business and finance,economy business and finance
+529,sport,sport
+530,lifestyle and leisure,labour
+531,politics,sport
+532,crime law and justice,crime law and justice
+533,science and technology,labour
+534,sport,sport
+535,politics,politics
+536,education,arts culture and entertainment
+537,economy business and finance,economy business and finance
+538,unrest conflicts and war,unrest conflicts and war
+539,sport,sport
+540,education,education
+541,crime law and justice,labour
+542,sport,sport
+543,sport,sport
+544,politics,labour
+545,general,arts culture and entertainment
+546,economy business and finance,economy business and finance
+547,arts culture and entertainment,arts culture and entertainment
+548,sport,sport
+549,economy business and finance,economy business and finance
+550,economy business and finance,economy business and finance
+551,human interest,sport
+552,lifestyle and leisure,sport
+553,sport,sport
+554,lifestyle and leisure,sport
+555,sport,labour
+556,lifestyle and leisure,lifestyle and leisure
+557,economy business and finance,economy business and finance
+558,economy business and finance,economy business and finance
+559,sport,sport
+560,sport,labour
+561,lifestyle and leisure,sport
+562,economy business and finance,economy business and finance
+563,sport,arts culture and entertainment
+564,crime law and justice,crime law and justice
+565,sport,sport
+566,politics,politics
+567,sport,sport
+568,sport,sport
+569,crime law and justice,crime law and justice
+570,economy business and finance,economy business and finance
+571,politics,politics
+572,sport,sport
+573,disaster and accident,lifestyle and leisure
+574,sport,labour
+575,labour,human interest
+576,lifestyle and leisure,lifestyle and leisure
+577,sport,sport
+578,sport,sport
+579,sport,sport
+580,sport,sport
+581,religion and belief,religion and belief
+582,politics,sport
+583,social issue,human interest
+584,economy business and finance,economy business and finance
+585,social issue,social issue
+586,lifestyle and leisure,lifestyle and leisure
+587,crime law and justice,crime law and justice
+588,sport,sport
+589,sport,sport
+590,sport,sport
+591,lifestyle and leisure,economy business and finance
+592,general,labour
+593,general,labour
+594,arts culture and entertainment,health
+595,economy business and finance,crime law and justice
+596,sport,sport
+597,health,labour
+598,sport,sport
+599,unrest conflicts and war,unrest conflicts and war
+600,sport,sport
+601,sport,sport
+602,sport,health
+603,economy business and finance,sport
+604,health,health
+605,economy business and finance,economy business and finance
+606,arts culture and entertainment,arts culture and entertainment
+607,arts culture and entertainment,arts culture and entertainment
+608,sport,labour
+609,sport,sport
+610,general,general
+611,sport,labour
+612,disaster and accident,sport
+613,sport,sport
+614,crime law and justice,health
+615,sport,sport
+616,social issue,social issue
+617,sport,sport
+618,social issue,social issue
+619,sport,health
+620,sport,sport
+621,education,environmental issue
+622,crime law and justice,crime law and justice
+623,arts culture and entertainment,arts culture and entertainment
+624,economy business and finance,arts culture and entertainment
+625,sport,sport
+626,sport,arts culture and entertainment
+627,sport,sport
+628,politics,politics
+629,labour,labour
+630,lifestyle and leisure,lifestyle and leisure
+631,economy business and finance,economy business and finance
+632,social issue,social issue
+633,sport,arts culture and entertainment
+634,education,education
+635,sport,sport
+636,politics,politics
+637,arts culture and entertainment,politics
+638,economy business and finance,economy business and finance
+639,economy business and finance,health
+640,health,arts culture and entertainment
+641,general,labour
+642,economy business and finance,economy business and finance
+643,disaster and accident,disaster and accident
+644,sport,sport
+645,sport,arts culture and entertainment
+646,economy business and finance,health
+647,crime law and justice,sport
+648,sport,sport
+649,general,general
+650,lifestyle and leisure,arts culture and entertainment
+651,arts culture and entertainment,crime law and justice
+652,crime law and justice,crime law and justice
+653,sport,sport
+654,economy business and finance,economy business and finance
+655,arts culture and entertainment,arts culture and entertainment
+656,politics,labour
+657,sport,sport
+658,sport,human interest
+659,sport,sport
+660,economy business and finance,economy business and finance
+661,general,labour
+662,unrest conflicts and war,sport
+663,economy business and finance,economy business and finance
+664,social issue,social issue
+665,economy business and finance,economy business and finance
+666,human interest,human interest
+667,arts culture and entertainment,health
+668,education,social issue
+669,labour,labour
+670,crime law and justice,labour
+671,general,general
+672,health,health
+673,sport,crime law and justice
+674,economy business and finance,arts culture and entertainment
+675,sport,sport
+676,economy business and finance,education
+677,human interest,human interest
+678,sport,sport
+679,economy business and finance,crime law and justice
+680,social issue,social issue
+681,economy business and finance,economy business and finance
+682,health,health
+683,social issue,social issue
+684,crime law and justice,crime law and justice
+685,disaster and accident,disaster and accident
+686,labour,labour
+687,sport,health
+688,science and technology,science and technology
+689,human interest,environmental issue
+690,sport,sport
+691,crime law and justice,crime law and justice
+692,sport,sport
+693,arts culture and entertainment,sport
+694,sport,economy business and finance
+695,social issue,social issue
+696,economy business and finance,economy business and finance
+697,social issue,human interest
+698,social issue,social issue
+699,sport,economy business and finance
+700,human interest,human interest
+701,environmental issue,environmental issue
+702,disaster and accident,disaster and accident
+703,lifestyle and leisure,lifestyle and leisure
+704,lifestyle and leisure,arts culture and entertainment
+705,arts culture and entertainment,arts culture and entertainment
+706,sport,arts culture and entertainment
+707,human interest,lifestyle and leisure
+708,lifestyle and leisure,social issue
+709,sport,sport
+710,social issue,politics
+711,arts culture and entertainment,religion and belief
+712,science and technology,science and technology
+713,sport,sport
+714,general,lifestyle and leisure
+715,economy business and finance,economy business and finance
+716,labour,sport
+717,economy business and finance,economy business and finance
+718,economy business and finance,economy business and finance
+719,crime law and justice,lifestyle and leisure
+720,economy business and finance,economy business and finance
+721,lifestyle and leisure,sport
+722,crime law and justice,sport
+723,economy business and finance,economy business and finance
+724,disaster and accident,lifestyle and leisure
+725,general,lifestyle and leisure
+726,sport,sport
+727,lifestyle and leisure,lifestyle and leisure
+728,social issue,social issue
+729,economy business and finance,economy business and finance
+730,sport,labour
+731,sport,sport
+732,economy business and finance,economy business and finance
+733,crime law and justice,crime law and justice
+734,lifestyle and leisure,lifestyle and leisure
+735,economy business and finance,economy business and finance
+736,arts culture and entertainment,arts culture and entertainment
+737,arts culture and entertainment,labour
+738,politics,politics
+739,politics,politics
+740,lifestyle and leisure,sport
+741,human interest,health
+742,social issue,arts culture and entertainment
+743,economy business and finance,human interest
+744,economy business and finance,science and technology
+745,economy business and finance,economy business and finance
+746,politics,politics
+747,economy business and finance,economy business and finance
+748,education,education
+749,politics,politics
+750,labour,labour
+751,social issue,weather
+752,economy business and finance,religion and belief
+753,sport,lifestyle and leisure
+754,economy business and finance,economy business and finance
+755,sport,sport
+756,sport,sport
+757,politics,health
+758,science and technology,science and technology
+759,politics,politics
+760,politics,politics
+761,crime law and justice,labour
+762,economy business and finance,economy business and finance
+763,religion and belief,sport
+764,unrest conflicts and war,unrest conflicts and war
+765,politics,politics
+766,general,general
+767,economy business and finance,economy business and finance
+768,general,arts culture and entertainment
+769,general,general
+770,unrest conflicts and war,unrest conflicts and war
+771,sport,arts culture and entertainment
+772,economy business and finance,economy business and finance
+773,sport,labour
+774,economy business and finance,politics
+775,education,education
+776,sport,sport
+777,social issue,social issue
+778,weather,economy business and finance
+779,politics,politics
+780,arts culture and entertainment,arts culture and entertainment
+781,religion and belief,religion and belief
+782,sport,sport
+783,economy business and finance,crime law and justice
+784,unrest conflicts and war,unrest conflicts and war
+785,sport,sport
+786,social issue,arts culture and entertainment
+787,weather,labour
+788,social issue,social issue
+789,sport,sport
+790,crime law and justice,crime law and justice
+791,general,health
+792,sport,labour
+793,sport,sport
+794,lifestyle and leisure,economy business and finance
+795,lifestyle and leisure,lifestyle and leisure
+796,human interest,environmental issue
+797,arts culture and entertainment,health
+798,economy business and finance,economy business and finance
+799,human interest,human interest
+800,economy business and finance,economy business and finance
+801,general,economy business and finance
+802,crime law and justice,crime law and justice
+803,crime law and justice,labour
+804,human interest,human interest
+805,sport,sport
+806,economy business and finance,arts culture and entertainment
+807,general,politics
+808,health,health
+809,sport,sport
+810,economy business and finance,sport
+811,human interest,sport
+812,weather,health
+813,unrest conflicts and war,unrest conflicts and war
+814,arts culture and entertainment,economy business and finance
+815,arts culture and entertainment,arts culture and entertainment
+816,sport,economy business and finance
+817,crime law and justice,crime law and justice
+818,economy business and finance,economy business and finance
+819,labour,labour
+820,lifestyle and leisure,lifestyle and leisure
+821,health,health
+822,sport,sport
+823,religion and belief,religion and belief
+824,general,weather
+825,lifestyle and leisure,lifestyle and leisure
+826,crime law and justice,crime law and justice
+827,human interest,labour
+828,arts culture and entertainment,arts culture and entertainment
+829,environmental issue,human interest
+830,sport,sport
+831,crime law and justice,labour
+832,sport,sport
+833,health,labour
+834,general,arts culture and entertainment
+835,environmental issue,environmental issue
+836,general,general
+837,economy business and finance,crime law and justice
+838,social issue,social issue
+839,sport,human interest
+840,sport,science and technology
+841,economy business and finance,economy business and finance
+842,disaster and accident,disaster and accident
+843,lifestyle and leisure,arts culture and entertainment
+844,health,health
+845,sport,politics
+846,politics,politics
+847,sport,sport
+848,education,education
+849,sport,sport
+850,sport,sport
+851,labour,labour
+852,economy business and finance,economy business and finance
+853,arts culture and entertainment,arts culture and entertainment
+854,lifestyle and leisure,lifestyle and leisure
+855,economy business and finance,economy business and finance
+856,health,health
+857,sport,sport
+858,general,education
+859,health,health
+860,politics,economy business and finance
+861,sport,sport
+862,economy business and finance,economy business and finance
+863,social issue,sport
+864,social issue,social issue
+865,disaster and accident,economy business and finance
+866,health,health
+867,economy business and finance,economy business and finance
+868,social issue,social issue
+869,arts culture and entertainment,arts culture and entertainment
+870,politics,politics
+871,health,health
+872,labour,arts culture and entertainment
+873,economy business and finance,economy business and finance
+874,arts culture and entertainment,economy business and finance
+875,sport,sport
+876,health,health
+877,politics,economy business and finance
+878,economy business and finance,economy business and finance
+879,sport,sport
+880,politics,politics
+881,lifestyle and leisure,lifestyle and leisure
+882,economy business and finance,economy business and finance
+883,science and technology,science and technology
+884,sport,sport
+885,sport,sport
+886,social issue,social issue
+887,economy business and finance,economy business and finance
+888,sport,sport
+889,social issue,social issue
+890,economy business and finance,economy business and finance
+891,economy business and finance,economy business and finance
+892,education,education
+893,sport,sport
+894,economy business and finance,economy business and finance
+895,sport,sport
+896,general,weather
+897,health,health
+898,sport,arts culture and entertainment
+899,education,education
+900,health,health
+901,crime law and justice,crime law and justice
+902,disaster and accident,disaster and accident
+903,social issue,social issue
+904,economy business and finance,economy business and finance
+905,politics,politics
+906,economy business and finance,labour
+907,sport,sport
+908,human interest,human interest
+909,economy business and finance,economy business and finance
+910,general,labour
+911,sport,sport
+912,sport,sport
+913,sport,labour
+914,sport,sport
+915,economy business and finance,social issue
+916,general,general
+917,economy business and finance,economy business and finance
+918,social issue,social issue
+919,sport,economy business and finance
+920,economy business and finance,economy business and finance
+921,social issue,social issue
+922,economy business and finance,economy business and finance
+923,economy business and finance,economy business and finance
+924,environmental issue,environmental issue
+925,politics,sport
+926,social issue,social issue
+927,education,education
+928,general,general
+929,education,labour
+930,sport,sport
+931,sport,human interest
+932,crime law and justice,economy business and finance
+933,labour,health
+934,education,education
+935,sport,sport
+936,general,general
+937,politics,economy business and finance
+938,social issue,social issue
+939,labour,labour
+940,economy business and finance,labour
+941,economy business and finance,arts culture and entertainment
+942,human interest,labour
+943,general,health
+944,education,education
+945,sport,sport
+946,politics,labour
+947,social issue,social issue
+948,sport,sport
+949,sport,arts culture and entertainment
+950,social issue,labour
+951,sport,politics
+952,economy business and finance,sport
+953,human interest,human interest
+954,sport,sport
+955,arts culture and entertainment,arts culture and entertainment
+956,disaster and accident,social issue
+957,social issue,labour
+958,education,education
+959,politics,politics
+960,economy business and finance,economy business and finance
+961,economy business and finance,human interest
+962,social issue,social issue
+963,social issue,labour
+964,social issue,social issue
+965,lifestyle and leisure,arts culture and entertainment
+966,economy business and finance,economy business and finance
+967,general,economy business and finance
+968,lifestyle and leisure,lifestyle and leisure
+969,crime law and justice,crime law and justice
+970,economy business and finance,economy business and finance
+971,economy business and finance,economy business and finance
+972,general,labour
+973,general,general
+974,unrest conflicts and war,unrest conflicts and war
+975,unrest conflicts and war,unrest conflicts and war
+976,environmental issue,health
+977,disaster and accident,sport
+978,social issue,social issue
+979,economy business and finance,arts culture and entertainment
+980,social issue,labour
+981,general,arts culture and entertainment
+982,economy business and finance,economy business and finance
+983,economy business and finance,weather
+984,arts culture and entertainment,arts culture and entertainment
+985,politics,politics
+986,sport,disaster and accident
+987,general,labour
+988,crime law and justice,health
+989,economy business and finance,economy business and finance
+990,economy business and finance,economy business and finance
+991,politics,politics
+992,health,health
+993,economy business and finance,economy business and finance
+994,social issue,social issue
+995,religion and belief,human interest
+996,lifestyle and leisure,lifestyle and leisure
+997,politics,politics
+998,sport,sport
+999,social issue,human interest
+1000,economy business and finance,economy business and finance
+1001,labour,labour
+1002,general,crime law and justice
+1003,economy business and finance,arts culture and entertainment
+1004,sport,sport
+1005,sport,sport
+1006,economy business and finance,economy business and finance
+1007,health,health
+1008,lifestyle and leisure,sport
+1009,social issue,social issue
+1010,economy business and finance,economy business and finance
+1011,religion and belief,religion and belief
+1012,economy business and finance,economy business and finance
+1013,sport,sport
+1014,social issue,health
+1015,general,labour
+1016,sport,sport
+1017,politics,arts culture and entertainment
+1018,sport,sport
+1019,economy business and finance,health
+1020,sport,labour
+1021,general,crime law and justice
+1022,social issue,labour
+1023,sport,sport
+1024,health,health
+1025,sport,sport
+1026,religion and belief,economy business and finance
+1027,economy business and finance,economy business and finance
+1028,sport,sport
+1029,lifestyle and leisure,lifestyle and leisure
+1030,crime law and justice,crime law and justice
+1031,general,crime law and justice
+1032,labour,labour
+1033,labour,labour
+1034,politics,crime law and justice
+1035,crime law and justice,economy business and finance
+1036,economy business and finance,economy business and finance
+1037,sport,sport
+1038,education,sport
+1039,religion and belief,religion and belief
+1040,economy business and finance,economy business and finance
+1041,social issue,social issue
+1042,sport,sport
+1043,social issue,social issue
+1044,general,general
+1045,health,health
+1046,environmental issue,environmental issue
+1047,sport,health
+1048,crime law and justice,crime law and justice
+1049,sport,labour
+1050,social issue,social issue
+1051,social issue,social issue
+1052,economy business and finance,economy business and finance
+1053,sport,sport
+1054,general,health
+1055,science and technology,labour
+1056,sport,sport
+1057,labour,arts culture and entertainment
+1058,sport,sport
+1059,politics,weather
+1060,social issue,social issue
+1061,general,general
+1062,economy business and finance,economy business and finance
+1063,politics,economy business and finance
+1064,politics,health
+1065,crime law and justice,crime law and justice
+1066,sport,crime law and justice
+1067,economy business and finance,labour
+1068,general,general
+1069,arts culture and entertainment,arts culture and entertainment
+1070,economy business and finance,economy business and finance
+1071,social issue,social issue
+1072,crime law and justice,crime law and justice
+1073,economy business and finance,crime law and justice
+1074,sport,sport
+1075,sport,labour
+1076,sport,sport
+1077,economy business and finance,labour
+1078,social issue,social issue
+1079,economy business and finance,economy business and finance
+1080,sport,labour
+1081,economy business and finance,economy business and finance
+1082,lifestyle and leisure,lifestyle and leisure
+1083,labour,health
+1084,economy business and finance,arts culture and entertainment
+1085,education,education
+1086,politics,politics
+1087,sport,sport
+1088,sport,sport
+1089,weather,economy business and finance
+1090,lifestyle and leisure,sport
+1091,science and technology,science and technology
+1092,economy business and finance,human interest
+1093,general,health
+1094,economy business and finance,sport
+1095,education,education
+1096,human interest,human interest
+1097,politics,economy business and finance
+1098,health,health
+1099,social issue,social issue
+1100,sport,human interest
+1101,general,general
+1102,human interest,human interest
+1103,sport,sport
+1104,sport,sport
+1105,sport,sport
+1106,sport,crime law and justice
+1107,health,health
+1108,lifestyle and leisure,religion and belief
+1109,environmental issue,environmental issue
+1110,crime law and justice,labour
+1111,economy business and finance,human interest
+1112,lifestyle and leisure,lifestyle and leisure
+1113,sport,sport
+1114,social issue,social issue
+1115,social issue,lifestyle and leisure
+1116,religion and belief,religion and belief
+1117,labour,environmental issue
+1118,arts culture and entertainment,arts culture and entertainment
+1119,economy business and finance,economy business and finance
+1120,sport,sport
+1121,lifestyle and leisure,environmental issue
+1122,unrest conflicts and war,unrest conflicts and war
+1123,religion and belief,religion and belief
+1124,general,general
+1125,arts culture and entertainment,arts culture and entertainment
+1126,sport,sport
+1127,sport,sport
+1128,health,health
+1129,sport,sport
+1130,crime law and justice,politics
+1131,lifestyle and leisure,sport
+1132,sport,sport
+1133,social issue,economy business and finance
+1134,social issue,environmental issue
+1135,education,education
+1136,lifestyle and leisure,sport
+1137,economy business and finance,economy business and finance
+1138,education,education
+1139,economy business and finance,economy business and finance
+1140,politics,politics
+1141,labour,weather
+1142,economy business and finance,economy business and finance
+1143,economy business and finance,labour
+1144,politics,politics
+1145,politics,politics
+1146,economy business and finance,economy business and finance
+1147,economy business and finance,sport
+1148,economy business and finance,economy business and finance
+1149,sport,sport
+1150,social issue,social issue
+1151,economy business and finance,economy business and finance
+1152,labour,labour
+1153,economy business and finance,labour
+1154,politics,politics
+1155,politics,politics
+1156,sport,sport
+1157,religion and belief,labour
+1158,human interest,human interest
+1159,sport,sport
+1160,social issue,social issue
+1161,social issue,labour
+1162,sport,sport
+1163,politics,politics
+1164,crime law and justice,sport
+1165,sport,sport
+1166,crime law and justice,crime law and justice
+1167,social issue,labour
+1168,human interest,human interest
+1169,health,health
+1170,social issue,sport
+1171,crime law and justice,economy business and finance
+1172,health,labour
+1173,health,labour
+1174,economy business and finance,sport
+1175,sport,sport
+1176,economy business and finance,economy business and finance
+1177,religion and belief,religion and belief
+1178,education,education
+1179,labour,crime law and justice
+1180,lifestyle and leisure,economy business and finance
+1181,economy business and finance,economy business and finance
+1182,science and technology,science and technology
+1183,human interest,sport
+1184,economy business and finance,health
+1185,sport,lifestyle and leisure
+1186,health,health
+1187,sport,economy business and finance
+1188,religion and belief,religion and belief
+1189,general,religion and belief
+1190,sport,sport
+1191,sport,politics
+1192,sport,human interest
+1193,social issue,social issue
+1194,economy business and finance,labour
+1195,social issue,labour
+1196,social issue,social issue
+1197,economy business and finance,economy business and finance
+1198,arts culture and entertainment,arts culture and entertainment
+1199,human interest,human interest
+1200,economy business and finance,politics
+1201,economy business and finance,economy business and finance
+1202,politics,sport
+1203,weather,weather
+1204,human interest,sport
+1205,general,general
+1206,politics,politics
+1207,sport,sport
+1208,sport,sport
+1209,health,weather
+1210,economy business and finance,labour
+1211,weather,weather
+1212,unrest conflicts and war,unrest conflicts and war
+1213,health,health
+1214,general,human interest
+1215,economy business and finance,economy business and finance
+1216,economy business and finance,economy business and finance
+1217,religion and belief,religion and belief
+1218,lifestyle and leisure,arts culture and entertainment
+1219,economy business and finance,education
+1220,social issue,social issue
+1221,sport,weather
+1222,sport,economy business and finance
+1223,lifestyle and leisure,lifestyle and leisure
+1224,weather,economy business and finance
+1225,economy business and finance,economy business and finance
+1226,arts culture and entertainment,environmental issue
+1227,human interest,politics
+1228,sport,sport
+1229,education,education
+1230,science and technology,science and technology
+1231,disaster and accident,disaster and accident
+1232,sport,sport
+1233,religion and belief,religion and belief
+1234,economy business and finance,economy business and finance
+1235,sport,human interest
+1236,lifestyle and leisure,lifestyle and leisure
+1237,sport,lifestyle and leisure
+1238,health,health
+1239,health,health
+1240,social issue,social issue
+1241,economy business and finance,sport
+1242,arts culture and entertainment,economy business and finance
+1243,sport,sport
+1244,general,religion and belief
+1245,sport,labour
+1246,economy business and finance,lifestyle and leisure
+1247,social issue,social issue
+1248,social issue,economy business and finance
+1249,sport,sport
+1250,science and technology,science and technology
+1251,sport,sport
+1252,religion and belief,religion and belief
+1253,politics,religion and belief
+1254,social issue,social issue
+1255,sport,sport
+1256,education,education
+1257,arts culture and entertainment,arts culture and entertainment
+1258,economy business and finance,economy business and finance
+1259,labour,sport
+1260,religion and belief,religion and belief
+1261,lifestyle and leisure,sport
+1262,social issue,social issue
+1263,religion and belief,religion and belief
+1264,economy business and finance,economy business and finance
+1265,social issue,social issue
+1266,economy business and finance,social issue
+1267,economy business and finance,economy business and finance
+1268,sport,crime law and justice
+1269,sport,politics
+1270,sport,sport
+1271,economy business and finance,economy business and finance
+1272,social issue,sport
+1273,economy business and finance,economy business and finance
+1274,politics,politics
+1275,sport,weather
+1276,labour,sport
+1277,economy business and finance,sport
+1278,sport,sport
+1279,labour,labour
+1280,crime law and justice,human interest
+1281,science and technology,science and technology
+1282,labour,labour
+1283,economy business and finance,human interest
+1284,labour,labour
+1285,sport,labour
+1286,unrest conflicts and war,unrest conflicts and war
+1287,health,health
+1288,sport,human interest
+1289,sport,arts culture and entertainment
+1290,crime law and justice,crime law and justice
+1291,education,environmental issue
+1292,economy business and finance,economy business and finance
+1293,science and technology,science and technology
+1294,sport,sport
+1295,social issue,social issue
+1296,economy business and finance,economy business and finance
+1297,unrest conflicts and war,crime law and justice
+1298,economy business and finance,economy business and finance
+1299,sport,sport
+1300,social issue,social issue
+1301,lifestyle and leisure,religion and belief
+1302,education,disaster and accident
+1303,lifestyle and leisure,lifestyle and leisure
+1304,arts culture and entertainment,arts culture and entertainment
+1305,crime law and justice,crime law and justice
+1306,social issue,social issue
+1307,economy business and finance,economy business and finance
+1308,economy business and finance,economy business and finance
+1309,lifestyle and leisure,lifestyle and leisure
+1310,economy business and finance,economy business and finance
+1311,sport,sport
+1312,crime law and justice,politics
+1313,health,health
+1314,economy business and finance,economy business and finance
+1315,economy business and finance,economy business and finance
+1316,sport,sport
+1317,sport,sport
+1318,economy business and finance,economy business and finance
+1319,economy business and finance,economy business and finance
+1320,economy business and finance,economy business and finance
+1321,labour,labour
+1322,social issue,social issue
+1323,human interest,science and technology
+1324,politics,politics
+1325,social issue,human interest
+1326,sport,sport
+1327,economy business and finance,economy business and finance
+1328,weather,environmental issue
+1329,sport,sport
+1330,education,education
+1331,human interest,human interest
+1332,economy business and finance,economy business and finance
+1333,science and technology,science and technology
+1334,economy business and finance,economy business and finance
+1335,economy business and finance,economy business and finance
+1336,labour,economy business and finance
+1337,sport,human interest
+1338,arts culture and entertainment,sport
+1339,sport,arts culture and entertainment
+1340,sport,arts culture and entertainment
+1341,social issue,social issue
+1342,economy business and finance,economy business and finance
+1343,sport,sport
+1344,general,general
+1345,sport,sport
+1346,social issue,social issue
+1347,social issue,social issue
+1348,lifestyle and leisure,lifestyle and leisure
+1349,arts culture and entertainment,arts culture and entertainment
+1350,sport,sport
+1351,economy business and finance,economy business and finance
+1352,sport,sport
+1353,labour,economy business and finance
+1354,sport,sport
+1355,politics,politics
+1356,crime law and justice,health
+1357,human interest,human interest
+1358,sport,sport
+1359,crime law and justice,crime law and justice
+1360,sport,sport
+1361,economy business and finance,lifestyle and leisure
+1362,environmental issue,human interest
+1363,lifestyle and leisure,sport
+1364,sport,politics
+1365,sport,sport
+1366,sport,economy business and finance
+1367,sport,sport
+1368,sport,sport
+1369,sport,sport
+1370,weather,sport
+1371,politics,politics
+1372,social issue,social issue
+1373,religion and belief,religion and belief
+1374,sport,sport
+1375,sport,lifestyle and leisure
+1376,religion and belief,religion and belief
+1377,politics,politics
+1378,religion and belief,religion and belief
+1379,lifestyle and leisure,sport
+1380,sport,sport
+1381,politics,politics
+1382,education,education
+1383,politics,sport
+1384,religion and belief,health
+1385,education,crime law and justice
+1386,arts culture and entertainment,unrest conflicts and war
+1387,economy business and finance,economy business and finance
+1388,arts culture and entertainment,religion and belief
+1389,sport,sport
+1390,social issue,health
+1391,weather,religion and belief
+1392,crime law and justice,crime law and justice
+1393,crime law and justice,health
+1394,sport,sport
+1395,social issue,social issue
+1396,politics,politics
+1397,unrest conflicts and war,unrest conflicts and war
+1398,general,general
+1399,politics,politics
+1400,unrest conflicts and war,unrest conflicts and war
+1401,social issue,human interest
+1402,sport,sport
+1403,religion and belief,religion and belief
+1404,sport,crime law and justice
+1405,sport,sport
+1406,religion and belief,religion and belief
+1407,politics,politics
+1408,religion and belief,religion and belief
+1409,arts culture and entertainment,lifestyle and leisure
+1410,sport,sport
+1411,politics,politics
+1412,economy business and finance,politics
+1413,economy business and finance,health
+1414,economy business and finance,health
+1415,unrest conflicts and war,unrest conflicts and war
+1416,politics,human interest
+1417,sport,sport
+1418,crime law and justice,health
+1419,weather,weather
+1420,unrest conflicts and war,human interest
+1421,sport,sport
+1422,economy business and finance,economy business and finance
+1423,politics,politics
+1424,disaster and accident,disaster and accident
+1425,crime law and justice,crime law and justice
+1426,economy business and finance,health
+1427,religion and belief,religion and belief
+1428,sport,religion and belief
+1429,economy business and finance,economy business and finance
+1430,economy business and finance,economy business and finance
+1431,politics,economy business and finance
+1432,unrest conflicts and war,unrest conflicts and war
+1433,general,weather
+1434,unrest conflicts and war,unrest conflicts and war
+1435,politics,politics
+1436,crime law and justice,economy business and finance
+1437,labour,sport
+1438,unrest conflicts and war,unrest conflicts and war
+1439,sport,health
+1440,economy business and finance,human interest
+1441,health,health
+1442,politics,politics
+1443,social issue,arts culture and entertainment
+1444,sport,sport
+1445,politics,politics
+1446,unrest conflicts and war,unrest conflicts and war
+1447,crime law and justice,unrest conflicts and war
+1448,politics,economy business and finance
+1449,human interest,religion and belief
+1450,unrest conflicts and war,unrest conflicts and war
+1451,social issue,social issue
+1452,unrest conflicts and war,weather
+1453,crime law and justice,crime law and justice
+1454,unrest conflicts and war,religion and belief
+1455,sport,sport
+1456,religion and belief,religion and belief
+1457,sport,sport
+1458,unrest conflicts and war,lifestyle and leisure
+1459,unrest conflicts and war,sport
+1460,human interest,economy business and finance
+1461,crime law and justice,crime law and justice
+1462,sport,sport
+1463,labour,labour
+1464,sport,sport
+1465,labour,economy business and finance
+1466,crime law and justice,human interest
+1467,unrest conflicts and war,unrest conflicts and war
+1468,economy business and finance,economy business and finance
+1469,politics,politics
+1470,religion and belief,religion and belief
