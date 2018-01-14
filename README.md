@@ -2,9 +2,9 @@
 
 A TF-IDF based RSS Feed Classified to automatically categorize RSS feeds into relevent groups which can help in organizing and retreiving RSS Feeds.
 
-Instructions:<br/><br/>
+##### Instructions:<br/><br/>
 Dependencies:
-Python 2.7<br/><br/>
+Python 2.7
 Python Packages:
 	feedparser
 	flask
